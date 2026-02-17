@@ -1,4 +1,4 @@
 let Test: string = "Test";
 let h: string = "hello";
 console.log(h);
-let number: number = 2;
+let number: number = 3;
